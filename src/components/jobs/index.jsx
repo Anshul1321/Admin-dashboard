@@ -21,7 +21,6 @@ const Jobs = () => {
               <td className="px-6 py-4 text-sm text-gray-700">14</td>
               <td className="px-6 py-4 text-sm text-gray-700">14</td>
             </tr>
-            {/* Add more rows as needed */}
           </tbody>
         </table>
       </div>
